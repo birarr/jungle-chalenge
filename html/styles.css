@@ -81,8 +81,8 @@ body, ul, li, p {
 #header-nav-right button {
     border: none;
     background: #00C88C;
-    border-radius: 8px;
-    padding: 1rem 1.5rem 1rem 1.5rem;
+    border-radius: 4px;
+    padding: 0.8rem 1.5rem 0.8rem 1.5rem;
     font-family: Inter;
     font-style: normal;
     font-weight: 500;
@@ -188,7 +188,7 @@ body, ul, li, p {
 #profile-available {
     margin-left: 1.5rem;
     margin-right: 0.5rem;
-    font-family: Inter;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -478,6 +478,7 @@ footer {
     display: grid;
     justify-content: center;
     text-align: center;
+    background: #FFFFFF;
     margin: 4rem auto 2rem auto;
     bottom:0; 
 }
@@ -578,6 +579,10 @@ footer button img {
 
 .share-nav ul li {
     margin-right: 1.5rem;
+}
+
+.share-nav ul li a {
+    text-decoration-line: none;
 }
 
 #hapu-grey {
