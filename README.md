@@ -6,4 +6,4 @@ Challenge goal: The goal of the present challenge is to acquire and consolidate 
 
 Target level: This is an entry level course, no prior knowledge of programming is needed.
 
-Final accomplishment: By the end of this course you'll be able to create static webpages using HTML and CSS. A webpage completely done by scratch based on a predefined design.
+*My accomplishments were recreate a static web page, using my knowledge.
