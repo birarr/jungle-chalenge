@@ -6,4 +6,4 @@ Challenge goal: The goal of the present challenge is to acquire and consolidate 
 
 Target level: This is an entry level course, no prior knowledge of programming is needed.
 
-*My accomplishments were recreate a static web page, using my knowledge.
+**My accomplishments were recreate a static web page, using the knowledge that I've learned in the Academy course and previous lessons.
